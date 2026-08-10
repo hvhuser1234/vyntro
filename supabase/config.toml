@@ -1,0 +1,7 @@
+project_id = "olxoxeelbkiwcgnocwiw"
+
+[functions.steam-login]
+verify_jwt = false
+
+[functions.steam-callback]
+verify_jwt = false
